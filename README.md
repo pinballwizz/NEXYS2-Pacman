@@ -1,2 +1,4 @@
 # NEXYS2-Pacman
-Pacman Arcade synthesized on a Digilent NEXYS2-500 Dev Board. 
+![Model](NEXYS2-Pacman.jpg)
+
+Pacman Arcade synthesized on a Digilent NEXYS2-500 Dev Board.
